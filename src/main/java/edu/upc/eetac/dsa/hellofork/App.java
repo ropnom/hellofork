@@ -24,6 +24,6 @@ package edu.upc.eetac.dsa.hellofork;
  */
 public class App {
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
+		System.out.println("Hello fork!");
 	}
 }
